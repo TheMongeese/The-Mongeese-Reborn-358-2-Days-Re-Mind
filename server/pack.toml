@@ -1,0 +1,13 @@
+name = "Mongeese 4 Server"
+author = "Max Caplan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5de9cfedf1b81307b712f3cf23d1befdbf1c29c701ddd1cc2ca1ddfa943e0438"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

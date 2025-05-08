@@ -1,0 +1,13 @@
+name = "Deep Aether"
+filename = "deep_aether-1.20.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gcHIih5B/versions/YNkNiqxV/deep_aether-1.20.1-1.1.5.jar"
+hash-format = "sha512"
+hash = "15b6ec93c3f34caa099c700f76da86fea61699a5ed7cbe9de84850617abfe8e2a4ce374aa68e74012327b16d6448e1e4c4c3d35dd121e1ec8eaad9e770a8c446"
+
+[update]
+[update.modrinth]
+mod-id = "gcHIih5B"
+version = "YNkNiqxV"

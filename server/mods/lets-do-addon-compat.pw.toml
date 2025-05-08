@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Compat"
+filename = "letsdocompat-forge-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FNi5IMiX/versions/B3wgW2Sp/letsdocompat-forge-2.1.0.jar"
+hash-format = "sha512"
+hash = "e9a8a6f19c4a09dd816475b61a6e52e22d01cbe9d298670f270367b727c3eadc1116f3311896faf9171d00f1eb8c00a9a1d4f25a1a30969b0005216a4a219c80"
+
+[update]
+[update.modrinth]
+mod-id = "FNi5IMiX"
+version = "B3wgW2Sp"

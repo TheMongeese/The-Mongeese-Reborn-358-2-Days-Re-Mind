@@ -1,0 +1,13 @@
+name = "Adaptive Performance Tweaks: Spawn"
+filename = "adaptive_performance_tweaks_spawn_1.20.1-11.3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/217PsbJI/versions/suOxhIlo/adaptive_performance_tweaks_spawn_1.20.1-11.3.0.jar"
+hash-format = "sha512"
+hash = "dd9a2e508db6ac0f22636fd974ccf2f2e1e7de4e2740704364bb3a086ae8d933b97b6fb0306f49f89cdd5bdcbfa78202e10ef935c307a869ed8d2561da3a04fb"
+
+[update]
+[update.modrinth]
+mod-id = "217PsbJI"
+version = "suOxhIlo"

@@ -1,0 +1,13 @@
+name = "Adaptive Performance Tweaks: Gamerules"
+filename = "adaptive_performance_tweaks_gamerules_1.20.1-11.3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rd89yO7d/versions/dmvc4VjR/adaptive_performance_tweaks_gamerules_1.20.1-11.3.0.jar"
+hash-format = "sha512"
+hash = "f5091cb68956b1e1cd3946a4cc4f547a3cb8860b6d64a475871d7ef80a45f91f2878e2553fffd3113839b96955535b780ca229b4ceadfd6a2cb8e828ac22be23"
+
+[update]
+[update.modrinth]
+mod-id = "Rd89yO7d"
+version = "dmvc4VjR"
