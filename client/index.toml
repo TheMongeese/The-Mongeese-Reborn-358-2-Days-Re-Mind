@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "install.py"
+hash = "570005b2e80f7cf25bb20b7b8851ac7cb88a48cfc0d19fc9e2ba50602905f3d1"
+
+[[files]]
+file = "install.sh"
+hash = "fff244a3d293b04d15b0b125e18277c867108667dc84a867946c411f3b1d0235"
+
+[[files]]
+file = "modlist.txt"
+hash = "563175fa59067527afb1c9478eca0b92ebee246382e576a1ce072b429c3115d0"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
@@ -332,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+hash = "632c93f30f4ec119ff6acbd825c57609bbf86b06b9c2c8cc024ee3ab2cc89d94"
 metafile = true
 
 [[files]]
@@ -408,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
 metafile = true
 
 [[files]]
