@@ -21,6 +21,11 @@ hash = "461ad4b591b5e3379a97e3fad8edcf9c28df4fe7e888d6fc34b620bf8031889a"
 metafile = true
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "8f2c476f0d8ab97f80e9068b5cd85b6e0261013096feba1e797c02f0d97f2657"
+metafile = true
+
+[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "3003828b74335546dab094b9e20db143f9c01fe7a22dbcb934106a904819602f"
 metafile = true
