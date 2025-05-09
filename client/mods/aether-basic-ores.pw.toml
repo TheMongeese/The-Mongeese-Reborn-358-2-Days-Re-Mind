@@ -1,0 +1,13 @@
+name = "Aether: Basic Ores"
+filename = "aether_ores-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XrpsNJah/versions/FcLmLrrM/aether_ores-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d8f405d0fdbfd34c096a92a310af01f884b9f1bea7a593ed1f53eadbfa7f28b3c35e9106d9e40af400df76e06a02d0fe7c2487eafd75aedce13ce5c6f9064c67"
+
+[update]
+[update.modrinth]
+mod-id = "XrpsNJah"
+version = "FcLmLrrM"

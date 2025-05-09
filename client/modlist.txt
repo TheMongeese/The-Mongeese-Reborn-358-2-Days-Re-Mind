@@ -1,0 +1,126 @@
+Advancement Plaques
+Aether: Basic Ores
+Aether: Lost Content
+Aileron
+Alex's Caves
+Alternate Current
+AmbientSounds
+AppleSkin
+Aquamirae
+Architectury
+Ars Nouveau
+Better Biome Reblend
+BetterF3
+Botania
+Bountiful
+Canary
+Cave Dust
+Chat Heads
+ChoiceTheorem's Overhauled Village
+Citadel
+ClientSort
+Cloth Config v10 API
+Comforts
+Connector-1.0.0-beta.46+1.20.1.jar.duplicate
+Continents
+Continuity
+CorgiLib
+Crash Assistant
+Create
+Create Slice & Dice
+CreativeCore
+Creeper Overhaul
+Cull Less Leaves Reforged
+Cupboard utilities
+Curios API
+Cut Through
+Deep Aether
+Drip Sounds
+Dungeons and Taverns
+Dungeons and Taverns
+Dynamic FPS
+EMI
+EMI Enchanting
+EMI Loot
+EMI Trades
+EMIffect
+Easy Anvils
+Elytra Trims
+Embeddium
+End Remastered
+End's Delight
+Enderman Overhaul
+Entity Model Features
+Entity Texture Features
+EntityCulling
+Farmer's Delight
+Fast IP Ping
+Fast Items
+Ferrite Core
+Forgified Fabric API
+Friends&Foes
+Fusion
+Fzzy Config
+GPUTape
+GeckoLib 4
+Gravestone Mod
+Handcrafted
+Iceberg
+ImmediatelyFast
+Jade
+Jade Addons
+Kambrik
+Kotlin for Forge
+Legendary Tooltips
+Let Me Despawn
+LionfishAPI
+Lithostitched
+Memory Leak Fix
+MidnightLib
+ModernFix
+Moonlight Library
+More Mob Variants
+Mouse Tweaks
+My Nether's Delight
+Naturalist
+Noisium
+NotEnoughAnimations
+Nyf's Spiders
+Obscure API
+Ocean's Delight
+Oculus
+Packet Fixer
+Palladium
+Particle Core
+Patchouli
+Polymorph
+Prism
+Puzzles Lib
+Rechiseled
+Remove Reloading Screen
+Resourceful Lib
+Resourcefulconfig
+ShulkerBoxTooltip
+Simply Swords
+Sinytra Connector
+Smarter Farmers
+Sound Physics Remastered
+SparseStructures
+Staaaaaaaaaaaack
+Structure Essentials mod
+Structure Gel API
+SuperMartijn642's Config Library
+SuperMartijn642's Core Lib
+TerraBlender
+The Aether
+ToadLib
+Traveler's Backpack
+True Ending: Ender Dragon Overhaul
+When Dungeons Arise
+When Dungeons Arise: Seven Seas
+Xaero's Minimap
+Xaero's World Map
+[Let's Do Addon] Compat
+[Let's Do] HerbalBrews
+[Let's Do] Vinery
+cataclysm
