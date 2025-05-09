@@ -101,16 +101,6 @@ hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
-metafile = true
-
-[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "5e7295ea704f3f3b001d30e67b736ba8da2221ffbf27cab3e9bb9dc413435774"
 metafile = true

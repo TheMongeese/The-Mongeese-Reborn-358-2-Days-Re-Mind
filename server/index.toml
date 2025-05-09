@@ -306,6 +306,11 @@ hash = "b720172434e663a1e7d87e0b3b14c0fcbd0032bb14b4ed1885f5c4b32614994f"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "4fa73cba58c9bc38dcd72b394a934bae450c30d6f1af171744e84faeea90d4f3"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
