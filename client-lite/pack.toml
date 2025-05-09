@@ -1,0 +1,13 @@
+name = "Mongeese 4 Client Lite"
+author = "Max Caplan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4560bb615bd1e0a214693230be6b82f43cace1dd44850c6a3952c8eedbb13176"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

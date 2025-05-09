@@ -1,0 +1,13 @@
+name = "Fast Items"
+filename = "fastitems-forge-1.1.0-forge+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H80QSt2v/versions/m3OUAuHy/fastitems-forge-1.1.0-forge%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ab619fb6e434d8a3f44ab95144d638e7276c0a68f3d53822356b3d4ce3823a811c5ddfa9bf9b5071382d85eb4adeacd1b2a7ec8b6fc87a5c587ae678ccc4c313"
+
+[update]
+[update.modrinth]
+mod-id = "H80QSt2v"
+version = "m3OUAuHy"
